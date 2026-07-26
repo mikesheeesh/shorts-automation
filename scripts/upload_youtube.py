@@ -71,12 +71,24 @@ def upload_short(youtube, file_path, title, description, tags, category_id="22",
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--file", required=True, help="path to the mp4 to upload")
-    parser.add_argument("--title", required=True)
+    parser.add_argument("--file", help="path to the mp4 to upload")
+    parser.add_argument("--title")
     parser.add_argument("--description", default="")
     parser.add_argument("--tags", default="", help="comma-separated tags")
     parser.add_argument("--privacy", default="private", choices=["private", "unlisted", "public"])
+    parser.add_argument(
+        "--refresh-only", action="store_true",
+        help="just (re-)run the OAuth flow and write credentials/token.json, then exit",
+    )
     args = parser.parse_args()
+
+    if args.refresh_only:
+        get_authenticated_service()
+        print(f"OAuth token refreshed: {TOKEN_PATH}")
+        return
+
+    if not args.file or not args.title:
+        parser.error("--file and --title are required unless --refresh-only is used")
 
     youtube = get_authenticated_service()
     tags = [t.strip() for t in args.tags.split(",") if t.strip()]
