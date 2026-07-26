@@ -1,0 +1,1794 @@
+[
+  {
+    "id": "001_mere_exposure",
+    "used": true,
+    "title_options": [
+      "Why You Fall For Things You See A Lot",
+      "This Is Why Ads Work On You",
+      "Your Brain Is Tricking You Right Now"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "You don't like this song because it's good. You like it because you've heard it 50 times.",
+        "visual_prompt": "close up of a person listening to music with headphones, neon lights, vertical",
+        "on_screen_text": "YOU'VE BEEN TRICKED",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called the mere-exposure effect.",
+        "visual_prompt": "radio playing in a car dashboard, vertical",
+        "on_screen_text": "MERE-EXPOSURE EFFECT",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "The more your brain sees or hears something, the safer it feels. Familiar equals safe. Safe equals liked.",
+        "visual_prompt": "brain scan animation glowing blue, vertical",
+        "on_screen_text": "FAMILIAR = SAFE = LIKED",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "That's why brands repeat the same ad. Why exes seem better with time. Why you hum songs you used to hate.",
+        "visual_prompt": "billboard advertisement repeating on a city street, vertical",
+        "on_screen_text": "REPETITION BUILDS TRUST",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "You don't like this. You're just used to it. Now go check your playlist.",
+        "visual_prompt": "phone screen showing a music app playlist, vertical",
+        "on_screen_text": "CHECK YOUR PLAYLIST",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "Your brain is way easier to hack than you think. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#brainfacts",
+      "#didyouknow"
+    ]
+  },
+  {
+    "id": "002_zeigarnik",
+    "used": true,
+    "title_options": [
+      "Why Unfinished Tasks Haunt You",
+      "The Reason You Can't Stop Thinking About It",
+      "This Is Why Netflix Uses Cliffhangers"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "Ever notice how an unfinished text argument lives in your head rent free? There's a reason.",
+        "visual_prompt": "person staring at phone anxiously in bed at night, vertical",
+        "on_screen_text": "WHY YOU CAN'T LET IT GO",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called the Zeigarnik effect.",
+        "visual_prompt": "close up of a clock ticking, vertical",
+        "on_screen_text": "THE ZEIGARNIK EFFECT",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "Your brain hates open loops. Finished tasks get filed away. Unfinished ones stay loud, on purpose.",
+        "visual_prompt": "open file folders scattered on a desk, vertical",
+        "on_screen_text": "OPEN LOOPS STAY LOUD",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "That's why cliffhangers work. Why unread messages annoy you. Why you remember the fight, not the apology.",
+        "visual_prompt": "tv screen showing a cliffhanger scene, vertical",
+        "on_screen_text": "YOUR BRAIN HATES LOOSE ENDS",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "So next time something won't leave your head, just finish it. Now go check, what's still open in your head right now?",
+        "visual_prompt": "person writing final checkmark on a to-do list, vertical",
+        "on_screen_text": "CLOSE THE LOOP",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "This is literally why you replay that one conversation. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#zeigarnikeffect",
+      "#mindblowing",
+      "#humanbehavior",
+      "#mentalhealth",
+      "#didyouknow"
+    ]
+  },
+  {
+    "id": "003_halo_effect",
+    "used": false,
+    "title_options": [
+      "Why Attractive People Get Away With More",
+      "This Bias Controls How You Judge People",
+      "You Are Not As Objective As You Think"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "Attractive people get hired faster, trusted more, and forgiven quicker. It's not fair, and it's not random.",
+        "visual_prompt": "confident person walking into a job interview, vertical",
+        "on_screen_text": "IT'S NOT FAIR. IT'S A BIAS",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called the halo effect.",
+        "visual_prompt": "golden light glowing around a silhouette, vertical",
+        "on_screen_text": "THE HALO EFFECT",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "One good trait, like looks, makes your brain assume other good traits exist too. Smarter, kinder, more honest.",
+        "visual_prompt": "close up of eyes scanning a face, vertical",
+        "on_screen_text": "ONE TRAIT BLEEDS INTO ALL",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "It's why tall people seem more competent. Why well-dressed people seem more trustworthy. None of it is proof.",
+        "visual_prompt": "person in a suit shaking hands confidently, vertical",
+        "on_screen_text": "LOOKS ARE NOT PROOF",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "It's not fair. It's a bias. Now think about the last person you trusted instantly, why did you really trust them?",
+        "visual_prompt": "two people meeting for the first time, handshake close up, vertical",
+        "on_screen_text": "WHO DID YOU TRUST TOO FAST?",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "One good trait is quietly deciding how people see you. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#haloeffect",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#socialskills"
+    ]
+  },
+  {
+    "id": "004_foot_in_door",
+    "used": false,
+    "title_options": [
+      "The Trick Salespeople Use On You",
+      "Why Small Yeses Lead To Big Ones",
+      "This Is How You Get Manipulated Slowly"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "Someone asks you for a tiny favor. You say yes. Weeks later you're doing something way bigger for them.",
+        "visual_prompt": "person signing a small form at a door, vertical",
+        "on_screen_text": "IT STARTS SMALL",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called foot-in-the-door.",
+        "visual_prompt": "close up of a foot stopping a closing door, vertical",
+        "on_screen_text": "FOOT-IN-THE-DOOR",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "Once you agree to something small, your brain rewrites your identity. You're now, the type of person who helps.",
+        "visual_prompt": "brain animation rewriting neural pathways, vertical",
+        "on_screen_text": "YOUR IDENTITY SHIFTS",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "So the next ask feels consistent, not manipulative. Salespeople know this. So do controlling friends.",
+        "visual_prompt": "salesperson smiling at a front door with a clipboard, vertical",
+        "on_screen_text": "CONSISTENCY IS THE TRAP",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "It starts small. That's the whole trick. So next time, ask yourself what the first small yes was.",
+        "visual_prompt": "person closing a door thoughtfully, vertical",
+        "on_screen_text": "WHAT WAS YOUR FIRST YES?",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "This is how you end up agreeing to things you never wanted. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#manipulationtactics",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#socialskills"
+    ]
+  },
+  {
+    "id": "005_door_in_face",
+    "used": false,
+    "title_options": [
+      "Why Big Asks Get You A Yes Later",
+      "The Reverse Trick That Works On Everyone",
+      "This Negotiation Hack Is Sneaky"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "Someone asks for something huge. You say no. Then they ask for something smaller, and you say yes instantly.",
+        "visual_prompt": "person shaking their head no at a negotiation table, vertical",
+        "on_screen_text": "YOU JUST GOT PLAYED",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called door-in-the-face.",
+        "visual_prompt": "door slamming shut in slow motion, vertical",
+        "on_screen_text": "DOOR-IN-THE-FACE",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "The big ask was never real. It exists to make the real ask feel small by comparison.",
+        "visual_prompt": "scale comparing a big object and a small object, vertical",
+        "on_screen_text": "THE BIG ASK IS FAKE",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "Your brain feels relief saying yes to the smaller one. Relief feels like a good decision. It's not.",
+        "visual_prompt": "person exhaling relief after a decision, vertical",
+        "on_screen_text": "RELIEF IS NOT LOGIC",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "You just got played, and it felt like a win. Now think, when was the last time saying no made you agree faster later?",
+        "visual_prompt": "two people finalizing a deal with a handshake, vertical",
+        "on_screen_text": "WHEN DID THIS HAPPEN TO YOU?",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "Negotiators use this constantly. Now you'll spot it every time. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#negotiation",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#persuasion"
+    ]
+  },
+  {
+    "id": "006_confirmation_bias",
+    "used": false,
+    "title_options": [
+      "Why You're Always 'Right' In Arguments",
+      "Your Brain Is Lying To You On Purpose",
+      "This Bias Ruins Every Debate You Have"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "You're not actually looking for the truth. You're looking for proof that you were right all along.",
+        "visual_prompt": "person scrolling phone news feed intensely, vertical",
+        "on_screen_text": "YOU'RE NOT SEARCHING FOR TRUTH",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called confirmation bias.",
+        "visual_prompt": "magnifying glass over a newspaper headline, vertical",
+        "on_screen_text": "CONFIRMATION BIAS",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "Your brain seeks out information that agrees with what you already believe, and quietly ignores the rest.",
+        "visual_prompt": "person ignoring one book and picking another from a shelf, vertical",
+        "on_screen_text": "YOU IGNORE WHAT DISAGREES",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "That's why two people can watch the same debate and both walk away feeling like they won.",
+        "visual_prompt": "two people watching a tv debate with different reactions, vertical",
+        "on_screen_text": "SAME FACTS, DIFFERENT TRUTH",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "Your brain is lying to you, and it feels completely true. So next time you're 'right', ask what you didn't search for.",
+        "visual_prompt": "person closing a laptop after research, vertical",
+        "on_screen_text": "WHAT DID YOU NOT SEARCH FOR?",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "The reason every side of every argument feels 'obviously right'. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#confirmationbias",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#criticalthinking"
+    ]
+  },
+  {
+    "id": "007_dunbar_number",
+    "used": false,
+    "title_options": [
+      "The Limit On How Many Friends You Can Have",
+      "Why You Can't Keep Up With Everyone",
+      "Your Brain Has A Friendship Cap"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "You have 800 followers, but your brain can only actually handle about 150 real relationships. Here's why.",
+        "visual_prompt": "phone screen showing a large contacts list scrolling fast, vertical",
+        "on_screen_text": "YOU HAVE A FRIENDSHIP LIMIT",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called Dunbar's number.",
+        "visual_prompt": "group of friends silhouettes standing together, vertical",
+        "on_screen_text": "DUNBAR'S NUMBER: 150",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "An anthropologist found our brains are wired to maintain roughly 150 stable relationships, max. Not more.",
+        "visual_prompt": "brain size comparison illustration, vertical",
+        "on_screen_text": "150 IS THE HARD CAP",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "Past that, people become names, not relationships. That's why huge friend groups always have inner circles.",
+        "visual_prompt": "crowd of people blurred except a small group in focus, vertical",
+        "on_screen_text": "PAST 150 = JUST NAMES",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "Quality beats quantity, your brain already decided that for you. Now go count who's actually in your 150.",
+        "visual_prompt": "small close friend group laughing together, vertical",
+        "on_screen_text": "WHO'S IN YOUR 150?",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "This is why you feel closer to 5 people than to 500 followers. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#dunbarsnumber",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#friendship"
+    ]
+  },
+  {
+    "id": "008_chameleon_effect",
+    "used": false,
+    "title_options": [
+      "Why You Copy People Without Noticing",
+      "The Reason You Like People Who Mirror You",
+      "Your Body Is Copying Strangers Right Now"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "Watch two close friends talk. They'll cross their arms at the same time, without either one noticing.",
+        "visual_prompt": "two friends talking and mirroring body language, vertical",
+        "on_screen_text": "YOU'RE COPYING THEM RIGHT NOW",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called the chameleon effect.",
+        "visual_prompt": "chameleon changing color close up, vertical",
+        "on_screen_text": "THE CHAMELEON EFFECT",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "We unconsciously mimic the posture, tone, and gestures of people we like or want to bond with.",
+        "visual_prompt": "two people leaning in the same direction at a table, vertical",
+        "on_screen_text": "MIMICRY BUILDS BONDING",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "It's automatic, and it works both ways. Mirror someone on purpose, and they'll like you more, instantly.",
+        "visual_prompt": "person subtly copying another person's hand gesture, vertical",
+        "on_screen_text": "MIRROR THEM, THEY LIKE YOU MORE",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "You've been doing this your whole life without noticing. Now go watch your next conversation happen in real time.",
+        "visual_prompt": "group of friends sitting in similar poses at a cafe, vertical",
+        "on_screen_text": "WATCH YOUR NEXT CONVERSATION",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "Try mirroring someone on purpose today and watch what happens. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#bodylanguage",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#socialskills"
+    ]
+  },
+  {
+    "id": "009_bystander_effect",
+    "used": false,
+    "title_options": [
+      "Why Nobody Helps In A Crowd",
+      "The More Witnesses, The Less Help You Get",
+      "This Is Why You Freeze In Public"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "Someone collapses in a crowded street. The bigger the crowd, the less likely anyone helps. That's backwards, right?",
+        "visual_prompt": "crowded city street with people walking past, vertical",
+        "on_screen_text": "MORE PEOPLE, LESS HELP",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called the bystander effect.",
+        "visual_prompt": "crowd standing around watching something, vertical",
+        "on_screen_text": "THE BYSTANDER EFFECT",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "When responsibility is shared by everyone, it feels owned by no one. Each person assumes someone else will act.",
+        "visual_prompt": "circle of people looking at each other, vertical",
+        "on_screen_text": "RESPONSIBILITY GETS DILUTED",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "That's why one person alone will help almost every time, but a crowd of 20 often does nothing.",
+        "visual_prompt": "one person stepping forward to help from a group, vertical",
+        "on_screen_text": "ALONE, YOU ACT. IN A CROWD, YOU FREEZE",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "So if you ever need help in public, point at one person directly. Now you'll never freeze in a crowd again.",
+        "visual_prompt": "person pointing directly at someone specific in a crowd, vertical",
+        "on_screen_text": "POINT AT ONE PERSON DIRECTLY",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "Save this. It could actually matter one day. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#bystandereffect",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#lifehacks"
+    ]
+  },
+  {
+    "id": "010_anchoring_bias",
+    "used": false,
+    "title_options": [
+      "The Number That Controls Your Decisions",
+      "Why The First Price You See Traps You",
+      "This Is How Stores Manipulate Your Brain"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "A shirt is 90 dollars. Crossed out, now 45. You feel like you're winning. You're not.",
+        "visual_prompt": "price tag with a crossed out discount in a store, vertical",
+        "on_screen_text": "YOU'RE NOT WINNING",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called anchoring bias.",
+        "visual_prompt": "ship anchor dropping into water, vertical",
+        "on_screen_text": "ANCHORING BIAS",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "The first number you see becomes the reference point for every judgment after it, even if it was made up.",
+        "visual_prompt": "number scale with a marker fixed at one point, vertical",
+        "on_screen_text": "THE FIRST NUMBER TRAPS YOU",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "That's why stores show the 'original price' first. Why salary negotiations start high. Anchors control the whole conversation.",
+        "visual_prompt": "shopping mall storefront with sale signs, vertical",
+        "on_screen_text": "ANCHORS CONTROL THE DEAL",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "You're not getting a deal, you're getting anchored. Now go check the last 'discount' you fell for.",
+        "visual_prompt": "person checking a receipt outside a store, vertical",
+        "on_screen_text": "WHAT WAS YOUR LAST ANCHOR?",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "This is why nothing feels expensive after seeing the 'original price'. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#anchoringbias",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#shoppingtips"
+    ]
+  },
+  {
+    "id": "011_loss_aversion",
+    "used": false,
+    "title_options": [
+      "Why Losing Hurts More Than Winning Feels Good",
+      "This Bias Controls Every Decision You Make",
+      "Your Brain Fears Loss Twice As Much"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "Losing 50 dollars hurts about twice as much as finding 50 dollars feels good. Your brain is wired unfairly.",
+        "visual_prompt": "person dropping and losing cash on the street, vertical",
+        "on_screen_text": "YOUR BRAIN IS WIRED UNFAIRLY",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called loss aversion.",
+        "visual_prompt": "scale tipping heavily to one side, vertical",
+        "on_screen_text": "LOSS AVERSION",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "Evolution made losses feel bigger than gains, because losing resources once meant death, not inconvenience.",
+        "visual_prompt": "ancient cave silhouette, survival themed, vertical",
+        "on_screen_text": "LOSSES USED TO MEAN DEATH",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "That's why you stay in bad jobs, bad relationships, and losing stocks. Leaving feels like a loss, staying feels safe.",
+        "visual_prompt": "person hesitating at a fork in the road, vertical",
+        "on_screen_text": "STAYING FEELS SAFE, IT ISN'T",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "Losing hurts twice as much, so your brain lies to keep you stuck. Now think, what are you avoiding losing right now?",
+        "visual_prompt": "person walking away confidently from an old path, vertical",
+        "on_screen_text": "WHAT ARE YOU AFRAID TO LOSE?",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "This is why quitting anything feels harder than it should. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#lossaversion",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#mindset"
+    ]
+  },
+  {
+    "id": "012_primacy_effect",
+    "used": false,
+    "title_options": [
+      "Why First Impressions Basically Never Change",
+      "The Reason You Can't Forget How You Met Someone",
+      "Your Brain Locks In The First Few Seconds"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "You decide if you like someone in about seven seconds. Everything after that is just your brain confirming it.",
+        "visual_prompt": "two strangers making eye contact for the first time, vertical",
+        "on_screen_text": "SEVEN SECONDS DECIDE EVERYTHING",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called the primacy effect.",
+        "visual_prompt": "clock counting down seconds, vertical",
+        "on_screen_text": "THE PRIMACY EFFECT",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "Information you get first gets stored deeper in memory, and shapes how you interpret everything that follows.",
+        "visual_prompt": "filing cabinet drawer opening with the first folder highlighted, vertical",
+        "on_screen_text": "FIRST INFO STICKS DEEPEST",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "That's why a bad first impression is so hard to undo. You're not judging them anymore, you're judging your first memory of them.",
+        "visual_prompt": "person trying to rebuild trust after a bad start, vertical",
+        "on_screen_text": "YOU'RE JUDGING A MEMORY",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "Seven seconds decide everything, so make yours count. Now think about the first impression you made today.",
+        "visual_prompt": "person confidently walking into a room, vertical",
+        "on_screen_text": "WHAT WAS YOUR FIRST SEVEN SECONDS TODAY?",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "This is why you still remember exactly how you met your best friend. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#primacyeffect",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#firstimpressions"
+    ]
+  },
+  {
+    "id": "013_recency_effect",
+    "used": false,
+    "title_options": [
+      "Why You Only Remember The Last Thing Someone Said",
+      "This Is Why Endings Matter More Than You Think",
+      "Your Memory Plays Favorites With Time"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "A five-star date can be ruined by one awkward last minute. Your brain remembers endings the loudest.",
+        "visual_prompt": "couple saying goodbye awkwardly at a doorway, vertical",
+        "on_screen_text": "ENDINGS RUIN EVERYTHING",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called the recency effect.",
+        "visual_prompt": "hourglass with sand running out, vertical",
+        "on_screen_text": "THE RECENCY EFFECT",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "The most recent information is the freshest in memory, so it gets weighted heavier than everything before it.",
+        "visual_prompt": "brain highlighting the last item in a sequence, vertical",
+        "on_screen_text": "LAST = LOUDEST IN MEMORY",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "That's why job interviewers remember your last answer best. Why the last slide of a presentation matters most.",
+        "visual_prompt": "interview room, person answering final question, vertical",
+        "on_screen_text": "YOUR LAST ANSWER MATTERS MOST",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "Endings matter more than you think, so always finish strong. Now think about how you ended your last conversation.",
+        "visual_prompt": "person leaving a meeting with a confident smile, vertical",
+        "on_screen_text": "HOW DID YOU END YOUR LAST TALK?",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "This is why you should never end a text on a bad note. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#recencyeffect",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#memory"
+    ]
+  },
+  {
+    "id": "014_barnum_effect",
+    "used": false,
+    "title_options": [
+      "Why Horoscopes Feel So Accurate",
+      "The Trick Psychics Use On Everyone",
+      "This Is Why Vague Statements Feel Personal"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "Your horoscope isn't reading your future. It's reading a sentence vague enough to fit anyone alive.",
+        "visual_prompt": "person reading horoscope on phone in bed, vertical",
+        "on_screen_text": "IT'S NOT READING YOUR FUTURE",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called the Barnum effect.",
+        "visual_prompt": "fortune teller card spread on a table, vertical",
+        "on_screen_text": "THE BARNUM EFFECT",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "Statements so general, like 'you seem confident but sometimes doubt yourself', feel personal because they fit almost everyone.",
+        "visual_prompt": "close up of a printed generic personality description, vertical",
+        "on_screen_text": "VAGUE ENOUGH TO FIT ANYONE",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "Your brain fills in the specific details from your own life, then credits the horoscope for the accuracy.",
+        "visual_prompt": "person nodding while reading something on a phone, vertical",
+        "on_screen_text": "YOUR BRAIN FILLS IN THE GAPS",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "It's not magic, it's just vague enough to fit anyone. Now go reread today's horoscope and count the vague words.",
+        "visual_prompt": "phone screen showing a daily horoscope app, vertical",
+        "on_screen_text": "COUNT THE VAGUE WORDS",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "Sorry, but Mercury has nothing to do with it. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#barnumeffect",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#horoscope"
+    ]
+  },
+  {
+    "id": "015_ikea_effect",
+    "used": false,
+    "title_options": [
+      "Why You Overvalue Things You Build Yourself",
+      "This Is Why DIY Furniture Feels Priceless",
+      "Your Effort Is Tricking Your Own Judgment"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "You'll defend that wobbly shelf you built for an hour, over a better one you could buy in five minutes.",
+        "visual_prompt": "person assembling flat-pack furniture with tools, vertical",
+        "on_screen_text": "YOU BUILT IT, YOU LOVE IT",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called the IKEA effect.",
+        "visual_prompt": "furniture assembly instructions and tools on the floor, vertical",
+        "on_screen_text": "THE IKEA EFFECT",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "Effort creates ownership, and ownership creates emotional value, even if the object itself is objectively worse.",
+        "visual_prompt": "person admiring a finished piece of furniture, vertical",
+        "on_screen_text": "EFFORT CREATES LOVE",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "That's why you value your own ideas more than better ones. Why homemade gifts feel bigger than expensive ones.",
+        "visual_prompt": "handmade gift being wrapped, vertical",
+        "on_screen_text": "HOMEMADE FEELS BIGGER",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "You built it, so of course you love it. Now think about the last thing you overvalued just because you made it.",
+        "visual_prompt": "person proudly showing something they made, vertical",
+        "on_screen_text": "WHAT DID YOU OVERVALUE?",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "This is why that wobbly shelf is staying forever. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#ikeaeffect",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#diy"
+    ]
+  },
+  {
+    "id": "016_paradox_of_choice",
+    "used": false,
+    "title_options": [
+      "Why More Options Make You Less Happy",
+      "This Is Why Netflix Stresses You Out",
+      "Too Many Choices Are Ruining Your Brain"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "You spend twenty minutes scrolling Netflix, pick nothing, and go to bed stressed. Sound familiar?",
+        "visual_prompt": "person scrolling through streaming app menu endlessly, vertical",
+        "on_screen_text": "TOO MANY OPTIONS = ZERO CHOICE",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called the paradox of choice.",
+        "visual_prompt": "grocery aisle with hundreds of similar products, vertical",
+        "on_screen_text": "THE PARADOX OF CHOICE",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "More options should mean more freedom, but past a point, your brain gets overwhelmed and satisfaction actually drops.",
+        "visual_prompt": "brain overloaded animation with many arrows, vertical",
+        "on_screen_text": "MORE OPTIONS, LESS SATISFACTION",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "That's why you're happier picking from three restaurants than from thirty. Fewer options, faster decisions, more peace.",
+        "visual_prompt": "person happily choosing from a small simple menu, vertical",
+        "on_screen_text": "FEWER OPTIONS, MORE PEACE",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "Too many options aren't freedom, they're stress. Now go pick the first decent option you see today.",
+        "visual_prompt": "person confidently closing a menu after deciding, vertical",
+        "on_screen_text": "PICK THE FIRST GOOD OPTION",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "This is scientifically why you can't pick a show to watch. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#paradoxofchoice",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#decisionmaking"
+    ]
+  },
+  {
+    "id": "017_peak_end_rule",
+    "used": false,
+    "title_options": [
+      "Why You Judge Whole Trips By One Moment",
+      "This Is How Your Memory Actually Works",
+      "Your Brain Ignores Most Of Your Life"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "A ten day vacation gets remembered by two moments. The best one, and the last one. The rest basically vanishes.",
+        "visual_prompt": "person looking through vacation photos on a phone, vertical",
+        "on_screen_text": "YOUR BRAIN DELETES MOST OF IT",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called the peak-end rule.",
+        "visual_prompt": "mountain peak with a sunset ending the day, vertical",
+        "on_screen_text": "THE PEAK-END RULE",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "We don't remember experiences as a whole. We remember the most intense moment, and how it ended, nothing more.",
+        "visual_prompt": "timeline graphic highlighting a peak and an end point, vertical",
+        "on_screen_text": "PEAK + END = THE WHOLE MEMORY",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "That's why a rough flight delay doesn't ruin a trip if the last night was amazing. Endings rewrite the story.",
+        "visual_prompt": "person smiling at an airport gate despite a delay, vertical",
+        "on_screen_text": "ENDINGS REWRITE THE WHOLE STORY",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "Your brain deletes most of your life and keeps two moments. Now make sure the ending is a good one.",
+        "visual_prompt": "sunset over a beach, peaceful ending shot, vertical",
+        "on_screen_text": "MAKE THE ENDING COUNT",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "This is why the last day of a trip matters more than day three. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#peakendrule",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#memory"
+    ]
+  },
+  {
+    "id": "018_sunk_cost",
+    "used": false,
+    "title_options": [
+      "Why You Finish Bad Movies You Hate",
+      "This Bias Keeps You Stuck In The Wrong Things",
+      "Your Past Spending Is Trapping Your Future"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "You hate the movie. You paid for the ticket. So you sit there for two more hours anyway. Why?",
+        "visual_prompt": "bored person watching a movie in a theater, vertical",
+        "on_screen_text": "WHY DO YOU STAY?",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called the sunk cost fallacy.",
+        "visual_prompt": "money and a ticket stub being thrown into a fire, vertical",
+        "on_screen_text": "THE SUNK COST FALLACY",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "You keep investing in something just to justify what you already spent, even when leaving is clearly better.",
+        "visual_prompt": "person pouring more money into a broken machine, vertical",
+        "on_screen_text": "PAST SPENDING ISN'T A REASON TO STAY",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "That's why you stay in bad relationships after years invested. Why you finish degrees you no longer want. The past can't be recovered by staying.",
+        "visual_prompt": "person standing at a crossroad holding an old photo, vertical",
+        "on_screen_text": "THE PAST IS ALREADY GONE",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "The money's already gone either way. Now think, what are you still finishing just because you started it?",
+        "visual_prompt": "person walking out of a movie theater confidently mid-film, vertical",
+        "on_screen_text": "WHAT ARE YOU STILL FINISHING?",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "This is why quitting the bad thing is always the right move. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#sunkcostfallacy",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#mindset"
+    ]
+  },
+  {
+    "id": "019_spotlight_effect",
+    "used": false,
+    "title_options": [
+      "Nobody Is Looking At You As Much As You Think",
+      "Why You're Not As Watched As You Feel",
+      "This Is Why Embarrassment Feels Bigger Than It Is"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "You trip in public and think everyone saw. In reality, most people didn't even look up from their phones.",
+        "visual_prompt": "person tripping slightly on a busy sidewalk, vertical",
+        "on_screen_text": "NOBODY SAW THAT",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called the spotlight effect.",
+        "visual_prompt": "spotlight shining on a single person in a crowd, vertical",
+        "on_screen_text": "THE SPOTLIGHT EFFECT",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "You overestimate how much people notice you, because you're the main character of your own mind, not theirs.",
+        "visual_prompt": "person imagining themselves under a spotlight while crowd ignores them, vertical",
+        "on_screen_text": "YOU'RE ONLY THE MAIN CHARACTER TO YOU",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "Studies show people notice about half of what you think they do, and forget it within minutes.",
+        "visual_prompt": "people walking past each other, absorbed in their own phones, vertical",
+        "on_screen_text": "THEY FORGET WITHIN MINUTES",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "Nobody's watching as closely as you think. Now go do the thing you were too embarrassed to do.",
+        "visual_prompt": "person confidently walking forward, head up, vertical",
+        "on_screen_text": "GO DO THE THING",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "That embarrassing moment you replay? Nobody else remembers it. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#spotlighteffect",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#confidence"
+    ]
+  },
+  {
+    "id": "020_pratfall_effect",
+    "used": false,
+    "title_options": [
+      "Why Small Mistakes Make People Like You More",
+      "This Is Why 'Perfect' People Feel Cold",
+      "A Little Clumsiness Is A Secret Weapon"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "A competent person spills their coffee, and suddenly people like them more, not less. That's not random.",
+        "visual_prompt": "person laughing after spilling coffee at a cafe, vertical",
+        "on_screen_text": "THE MISTAKE MADE THEM LIKEABLE",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called the pratfall effect.",
+        "visual_prompt": "someone slipping slightly but recovering with a laugh, vertical",
+        "on_screen_text": "THE PRATFALL EFFECT",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "Small, harmless mistakes make skilled people feel human and relatable, instead of intimidating.",
+        "visual_prompt": "confident speaker laughing off a small mistake on stage, vertical",
+        "on_screen_text": "MISTAKES MAKE YOU RELATABLE",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "But it only works if you're already seen as competent. For someone unproven, the same mistake just confirms doubt.",
+        "visual_prompt": "two contrasting reactions to the same mistake, vertical",
+        "on_screen_text": "IT ONLY WORKS IF YOU'RE ALREADY GOOD",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "A little clumsiness is a secret weapon, not a weakness. Now stop hiding your small mistakes.",
+        "visual_prompt": "person laughing genuinely with others, vertical",
+        "on_screen_text": "STOP HIDING SMALL MISTAKES",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "This is why the funny coworker who messes up a little is everyone's favorite. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#pratfalleffect",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#socialskills"
+    ]
+  },
+  {
+    "id": "021_reciprocity",
+    "used": false,
+    "title_options": [
+      "Why Free Samples Actually Work On You",
+      "The Debt You Feel After Any Small Favor",
+      "This Is How Guilt Gets Built Into Your Brain"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "Someone hands you a free sample. You didn't ask for it, but now you feel weirdly obligated to buy something.",
+        "visual_prompt": "person offering a free food sample at a store, vertical",
+        "on_screen_text": "THAT 'FREE' SAMPLE ISN'T FREE",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called the reciprocity principle.",
+        "visual_prompt": "two hands exchanging a small gift, vertical",
+        "on_screen_text": "THE RECIPROCITY PRINCIPLE",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "Humans are wired to repay favors, even tiny unrequested ones, because in our history, owing nothing meant owing everything.",
+        "visual_prompt": "ancient tribal trading scene illustration, vertical",
+        "on_screen_text": "OWING NOTHING USED TO BE DANGEROUS",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "That's why salespeople give things away first. Why a compliment makes you want to compliment back instantly.",
+        "visual_prompt": "salesperson handing over a small gift with a smile, vertical",
+        "on_screen_text": "GIVING FIRST CREATES DEBT",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "That 'free' sample isn't free, it's a debt. Now notice the next small gift someone hands you.",
+        "visual_prompt": "person politely declining a free sample, vertical",
+        "on_screen_text": "NOTICE THE NEXT FREE GIFT",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "Free samples are a psychology hack, not generosity. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#reciprocity",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#persuasion"
+    ]
+  },
+  {
+    "id": "022_scarcity",
+    "used": false,
+    "title_options": [
+      "Why 'Only 2 Left' Makes You Panic Buy",
+      "This Is Why Limited Time Offers Work",
+      "Your Brain Wants What It Might Lose"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "'Only 2 left in stock' does more to your brain than any actual sale. You suddenly need it.",
+        "visual_prompt": "online store showing low stock warning on a product page, vertical",
+        "on_screen_text": "YOU SUDDENLY NEED IT",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called the scarcity principle.",
+        "visual_prompt": "empty shelf with one item left, vertical",
+        "on_screen_text": "THE SCARCITY PRINCIPLE",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "Things feel more valuable the moment they might disappear, not because they changed, but because access did.",
+        "visual_prompt": "countdown timer on a sale banner, vertical",
+        "on_screen_text": "SCARCE = VALUABLE, EVEN IF NOTHING CHANGED",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "That's why limited time offers work, why sold-out drops go viral, why 'last chance' emails get opened instantly.",
+        "visual_prompt": "sold out sign on a store display, vertical",
+        "on_screen_text": "SOLD OUT = MORE DESIRABLE",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "Your brain wants what it might lose, not what's actually rare. Now go check, do you actually need it?",
+        "visual_prompt": "person closing a checkout page and thinking twice, vertical",
+        "on_screen_text": "DO YOU ACTUALLY NEED IT?",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "The countdown timer is doing more work than the discount. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#scarcityprinciple",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#marketing"
+    ]
+  },
+  {
+    "id": "023_social_proof",
+    "used": false,
+    "title_options": [
+      "Why You Trust Reviews More Than Your Own Eyes",
+      "This Is Why Fake Lines Actually Work",
+      "Your Brain Copies The Crowd Automatically"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "A restaurant with a line outside looks better than an empty one, even if the empty one has better food.",
+        "visual_prompt": "line of people waiting outside a restaurant at night, vertical",
+        "on_screen_text": "THE LINE IS THE MARKETING",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called social proof.",
+        "visual_prompt": "five star reviews floating above a phone screen, vertical",
+        "on_screen_text": "SOCIAL PROOF",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "When we're unsure what to do, we copy what everyone else is doing, assuming the crowd knows something we don't.",
+        "visual_prompt": "crowd of people all looking in the same direction, vertical",
+        "on_screen_text": "THE CROWD MUST KNOW SOMETHING",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "That's why reviews sell products more than ads. Why empty restaurants stay empty, and full ones get fuller.",
+        "visual_prompt": "phone screen showing hundreds of product reviews, vertical",
+        "on_screen_text": "REVIEWS SELL MORE THAN ADS",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "The line is the marketing, not the food. Now think about the last thing you bought just because of the reviews.",
+        "visual_prompt": "person adding an item to cart after reading reviews, vertical",
+        "on_screen_text": "WHAT DID YOU BUY FOR THE REVIEWS?",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "This is why five stars sell more than the actual product does. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#socialproof",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#marketing"
+    ]
+  },
+  {
+    "id": "024_cognitive_dissonance",
+    "used": false,
+    "title_options": [
+      "Why You Defend Bad Decisions Instead Of Fixing Them",
+      "This Is Why You Lie To Yourself Daily",
+      "Your Brain Hates Admitting It Was Wrong"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "You bought the expensive thing you don't need. Now you defend it to everyone, including yourself.",
+        "visual_prompt": "person justifying an expensive purchase to a friend, vertical",
+        "on_screen_text": "YOU'RE DEFENDING A MISTAKE",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called cognitive dissonance.",
+        "visual_prompt": "two conflicting thought bubbles above a person's head, vertical",
+        "on_screen_text": "COGNITIVE DISSONANCE",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "Holding two conflicting beliefs, like 'I'm smart' and 'I made a dumb choice', creates real mental discomfort.",
+        "visual_prompt": "brain animation with two clashing halves, vertical",
+        "on_screen_text": "CONFLICTING BELIEFS HURT",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "So instead of fixing the mistake, your brain edits the story until the mistake feels smart. It's easier than admitting fault.",
+        "visual_prompt": "person rewriting a story in a notebook, vertical",
+        "on_screen_text": "YOUR BRAIN EDITS THE STORY",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "You're defending a mistake, not the decision. Now think, what have you been justifying lately instead of just fixing?",
+        "visual_prompt": "person finally admitting a mistake with relief, vertical",
+        "on_screen_text": "WHAT ARE YOU JUSTIFYING?",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "This is why nobody ever says 'yeah that was a dumb purchase'. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#cognitivedissonance",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#mindset"
+    ]
+  },
+  {
+    "id": "025_self_serving_bias",
+    "used": false,
+    "title_options": [
+      "Why You Take Credit But Never The Blame",
+      "This Bias Protects Your Ego Constantly",
+      "You're Not As Fair To Yourself As You Think"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "You got the promotion because you're talented. You got fired because your boss was unfair. Notice the pattern?",
+        "visual_prompt": "person celebrating a promotion at work, vertical",
+        "on_screen_text": "NOTICE THE PATTERN?",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called self-serving bias.",
+        "visual_prompt": "mirror reflecting a slightly flattering version of a person, vertical",
+        "on_screen_text": "SELF-SERVING BIAS",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "We credit our successes to skill, and blame our failures on circumstances, to protect our self-image.",
+        "visual_prompt": "trophy on one side, storm clouds on the other, vertical",
+        "on_screen_text": "SUCCESS = SKILL. FAILURE = BAD LUCK",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "It feels honest in the moment, but it quietly stops you from learning from your actual mistakes.",
+        "visual_prompt": "person ignoring a mistake report on a desk, vertical",
+        "on_screen_text": "IT BLOCKS REAL GROWTH",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "Notice the pattern, your ego is editing the story. Now think about your last failure, what part was actually you?",
+        "visual_prompt": "person reflecting honestly in front of a mirror, vertical",
+        "on_screen_text": "WHAT PART WAS ACTUALLY YOU?",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "Painful but true. Your ego edits your own history. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#selfservingbias",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#selfimprovement"
+    ]
+  },
+  {
+    "id": "026_placebo_effect",
+    "used": false,
+    "title_options": [
+      "Why A Sugar Pill Can Actually Heal You",
+      "This Is Proof Your Mind Controls Your Body",
+      "Belief Alone Can Change Your Biology"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "You take a pill with zero active ingredients, and your pain actually goes down. That's not imaginary.",
+        "visual_prompt": "person taking a pill with a glass of water, vertical",
+        "on_screen_text": "THE PILL DID NOTHING. YOU HEALED ANYWAY",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called the placebo effect.",
+        "visual_prompt": "sugar pills close up in a doctor's hand, vertical",
+        "on_screen_text": "THE PLACEBO EFFECT",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "Expecting relief triggers real chemical changes in the brain, like releasing actual painkillers your body makes itself.",
+        "visual_prompt": "brain releasing glowing chemical signals, vertical",
+        "on_screen_text": "BELIEF TRIGGERS REAL CHEMISTRY",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "It's so strong that in some studies, fake surgery reduced pain almost as well as the real surgery did.",
+        "visual_prompt": "hospital operating room, calm and clinical, vertical",
+        "on_screen_text": "EVEN FAKE SURGERY CAN WORK",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "The pill did nothing, your belief did the work. Now think about what else in your life is powered by pure belief.",
+        "visual_prompt": "person feeling noticeably better, smiling, vertical",
+        "on_screen_text": "WHAT ELSE RUNS ON BELIEF?",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "Your mind is quietly one of the strongest drugs that exists. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#placeboeffect",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#mindbody"
+    ]
+  },
+  {
+    "id": "027_dunning_kruger",
+    "used": false,
+    "title_options": [
+      "Why Beginners Are Often The Most Confident",
+      "This Is Why Experts Doubt Themselves More",
+      "The Less You Know, The More Sure You Feel"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "The person who just learned one fact is often more confident than the actual expert. That's not a coincidence.",
+        "visual_prompt": "confident beginner explaining something loudly, vertical",
+        "on_screen_text": "THE BEGINNER FEELS LIKE THE EXPERT",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called the Dunning-Kruger effect.",
+        "visual_prompt": "graph showing confidence spiking early then dropping, vertical",
+        "on_screen_text": "THE DUNNING-KRUGER EFFECT",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "At low skill levels, you don't know enough to see how much you don't know, so confidence peaks way too early.",
+        "visual_prompt": "person standing confidently at the bottom of a huge mountain, vertical",
+        "on_screen_text": "YOU DON'T KNOW WHAT YOU DON'T KNOW",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "As real skill grows, you finally see the size of the topic, and confidence actually drops before it recovers.",
+        "visual_prompt": "expert looking humble and thoughtful, vertical",
+        "on_screen_text": "REAL EXPERTS DOUBT MORE",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "The beginner feels like the expert, and the expert knows better. Now think, where are you overconfident right now?",
+        "visual_prompt": "person quietly studying, humble posture, vertical",
+        "on_screen_text": "WHERE ARE YOU OVERCONFIDENT?",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "The loudest person in the room is usually the least sure, statistically. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#dunningkruger",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#selfimprovement"
+    ]
+  },
+  {
+    "id": "028_variable_reward",
+    "used": false,
+    "title_options": [
+      "Why You Can't Put Your Phone Down",
+      "This Is The Same Trick Slot Machines Use",
+      "Your Apps Are Designed Like Casinos"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "You pull to refresh your feed, not knowing what's there. That uncertainty is the whole addiction.",
+        "visual_prompt": "close up of a thumb pulling to refresh a social media app, vertical",
+        "on_screen_text": "THE UNCERTAINTY IS THE ADDICTION",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called variable reward.",
+        "visual_prompt": "slot machine lights spinning close up, vertical",
+        "on_screen_text": "VARIABLE REWARD",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "Your brain releases more dopamine from an unpredictable reward than from a guaranteed one, exactly like a slot machine.",
+        "visual_prompt": "brain releasing dopamine burst animation, vertical",
+        "on_screen_text": "UNPREDICTABLE = MORE DOPAMINE",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "Sometimes the post is boring, sometimes it's amazing, and you never know which, so you keep checking.",
+        "visual_prompt": "person endlessly scrolling phone at night, vertical",
+        "on_screen_text": "YOU NEVER KNOW WHICH ONE IT'LL BE",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "The uncertainty is the addiction, not the content. Now go turn off one notification today.",
+        "visual_prompt": "person turning off phone notifications in settings, vertical",
+        "on_screen_text": "TURN OFF ONE NOTIFICATION",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "Your phone is designed by the same psychology as a casino. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#dopamine",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#phoneaddiction"
+    ]
+  },
+  {
+    "id": "029_system1_system2",
+    "used": false,
+    "title_options": [
+      "The Two Minds Living Inside Your Head",
+      "Why You Make Bad Decisions When You're Tired",
+      "This Is How Your Brain Actually Thinks"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "You have two brains fighting for control right now. One is fast and lazy. One is slow and careful.",
+        "visual_prompt": "split screen of a fast reaction and a slow thoughtful person, vertical",
+        "on_screen_text": "YOU HAVE TWO BRAINS",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "Psychologists call them System 1 and System 2.",
+        "visual_prompt": "two glowing brain hemispheres animation, vertical",
+        "on_screen_text": "SYSTEM 1 VS SYSTEM 2",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "System 1 is instant, emotional, and automatic. System 2 is slow, logical, and takes real effort to switch on.",
+        "visual_prompt": "person reacting instantly then pausing to think, vertical",
+        "on_screen_text": "FAST INSTINCT VS SLOW LOGIC",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "When you're tired or stressed, System 2 shuts off first, and System 1 makes all your decisions, badly.",
+        "visual_prompt": "exhausted person making a rushed decision late at night, vertical",
+        "on_screen_text": "TIRED = INSTINCT TAKES OVER",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "You have two brains, and the tired one is in charge right now. Now go make your big decisions after you rest.",
+        "visual_prompt": "person calmly deciding something after a good night's sleep, vertical",
+        "on_screen_text": "DECIDE AFTER YOU REST",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "This is why 2am decisions are almost always the wrong ones. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#system1system2",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#decisionmaking"
+    ]
+  },
+  {
+    "id": "030_enclothed_cognition",
+    "used": false,
+    "title_options": [
+      "Why What You Wear Changes How You Think",
+      "This Is Why Uniforms Actually Work",
+      "Your Clothes Are Changing Your Brain"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "Put on a lab coat, and people actually perform better on focus tests. The clothing itself changes your brain.",
+        "visual_prompt": "person putting on a lab coat before working, vertical",
+        "on_screen_text": "THE COAT CHANGES YOUR BRAIN",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called enclothed cognition.",
+        "visual_prompt": "close up of hands buttoning a formal jacket, vertical",
+        "on_screen_text": "ENCLOTHED COGNITION",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "What you wear carries symbolic meaning, and your brain shifts behavior to match that meaning, automatically.",
+        "visual_prompt": "person standing taller after changing into formal clothes, vertical",
+        "on_screen_text": "CLOTHES CARRY MEANING",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "That's why dressing sharp for a meeting actually makes you sharper, not just more presentable.",
+        "visual_prompt": "person confidently walking into an office in sharp clothing, vertical",
+        "on_screen_text": "DRESS SHARP, THINK SHARP",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "The coat changes your brain, not just your look. Now go dress like the version of you that gets it done.",
+        "visual_prompt": "person choosing an outfit in front of a mirror, vertical",
+        "on_screen_text": "DRESS AS THE PERSON YOU WANT TO BE",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "This is a real reason 'dress for the job you want' actually works. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#enclothedcognition",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#productivity"
+    ]
+  },
+  {
+    "id": "031_emotional_contagion",
+    "used": false,
+    "title_options": [
+      "Why Yawns And Moods Are Both Contagious",
+      "This Is Why One Person Can Ruin A Room",
+      "Your Emotions Are Not Fully Your Own"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "One person walks into a room stressed, and within minutes, everyone else feels it too. Nobody said a word.",
+        "visual_prompt": "person entering a calm office and everyone tensing up, vertical",
+        "on_screen_text": "NOBODY SAID A WORD",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called emotional contagion.",
+        "visual_prompt": "ripple effect spreading across water, vertical",
+        "on_screen_text": "EMOTIONAL CONTAGION",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "We unconsciously mimic the facial expressions and tone of people around us, and that mimicry produces the actual feeling in us.",
+        "visual_prompt": "group of people's facial expressions shifting together, vertical",
+        "on_screen_text": "YOU MIMIC, THEN YOU FEEL IT TOO",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "It's the same reason yawning spreads across a room, and why calm people can quietly calm down everyone near them.",
+        "visual_prompt": "person yawning causing others nearby to yawn too, vertical",
+        "on_screen_text": "CALM SPREADS THE SAME WAY",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "Nobody said a word, and the whole room changed anyway. Now think about whose mood you caught today.",
+        "visual_prompt": "calm person smiling, spreading calm energy in a room, vertical",
+        "on_screen_text": "WHOSE MOOD DID YOU CATCH TODAY?",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "This is why one calm person can fix an entire tense room. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#emotionalcontagion",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#emotions"
+    ]
+  },
+  {
+    "id": "032_choice_blindness",
+    "used": false,
+    "title_options": [
+      "Why You Can't Even Trust Your Own Choices",
+      "This Experiment Will Mess With Your Head",
+      "You Might Not Know Why You Chose Anything"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "Researchers secretly swapped people's chosen photo for a different one. Most people didn't notice, and defended the swap.",
+        "visual_prompt": "person choosing between two photos on a table, vertical",
+        "on_screen_text": "THEY SWAPPED THE ANSWER",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called choice blindness.",
+        "visual_prompt": "magic trick style card swap close up, vertical",
+        "on_screen_text": "CHOICE BLINDNESS",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "We're often unaware of the real reasons behind our choices, so we happily invent explanations for choices we never actually made.",
+        "visual_prompt": "person confidently explaining a decision, thought bubble questioning it, vertical",
+        "on_screen_text": "WE INVENT REASONS AFTER THE FACT",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "It reveals something uncomfortable, your sense of 'why I chose this' might just be a story you tell after the fact.",
+        "visual_prompt": "person writing a journal entry justifying a decision, vertical",
+        "on_screen_text": "YOUR 'WHY' MIGHT BE FICTION",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "They swapped the answer, and people defended it anyway. Now think, do you actually know why you picked your last choice?",
+        "visual_prompt": "person pausing thoughtfully mid-decision, vertical",
+        "on_screen_text": "DO YOU KNOW WHY YOU CHOSE IT?",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "This experiment proves your brain lies to you about your own choices. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#choiceblindness",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#decisionmaking"
+    ]
+  }
+]

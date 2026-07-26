@@ -1,0 +1,9 @@
+{
+  "pexels_api_key": "PUT_YOUR_PEXELS_API_KEY_HERE",
+  "tts_voice": "en-US-GuyNeural",
+  "youtube_privacy_status": "public",
+  "youtube_category_id": "22",
+  "video_width": 1080,
+  "video_height": 1920,
+  "fps": 30
+}

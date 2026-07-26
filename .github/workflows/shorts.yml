@@ -1,0 +1,61 @@
+name: Shorts Automation
+
+on:
+  schedule:
+    # Athens summer time (UTC+3): 10:00, 14:00, 18:00, 22:00
+    - cron: "0 7 * * *"
+    - cron: "0 11 * * *"
+    - cron: "0 15 * * *"
+    - cron: "0 19 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  render-and-upload:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install ffmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Prepare config and credentials
+        env:
+          CLIENT_SECRET_JSON: ${{ secrets.CLIENT_SECRET_JSON }}
+          TOKEN_JSON: ${{ secrets.TOKEN_JSON }}
+        run: |
+          cp config.example.json config.json
+          mkdir -p credentials
+          printf '%s' "$CLIENT_SECRET_JSON" > credentials/client_secret.json
+          printf '%s' "$TOKEN_JSON" > credentials/token.json
+
+      - name: Render and upload next script
+        env:
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+        run: python scripts/main.py
+
+      - name: Upload rendered video as workflow artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: rendered-video
+          path: output/*.mp4
+          retention-days: 7
+          if-no-files-found: ignore
+
+      - name: Commit updated script pool back to the repo
+        run: |
+          git config user.name "shorts-automation-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add content/scripts_pool.json
+          git diff --cached --quiet || git commit -m "chore: mark script as used [skip ci]"
+          git push

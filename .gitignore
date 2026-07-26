@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+
+config.json
+credentials/client_secret.json
+credentials/token.json
+
+assets/cache/
+output/*.mp4
+
+logs/*.jsonl
