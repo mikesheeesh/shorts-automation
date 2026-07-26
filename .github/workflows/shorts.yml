@@ -59,3 +59,4 @@ jobs:
           git add content/scripts_pool.json
           git diff --cached --quiet || git commit -m "chore: mark script as used [skip ci]"
           git push
+
