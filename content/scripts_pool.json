@@ -505,7 +505,7 @@
   },
   {
     "id": "010_anchoring_bias",
-    "used": false,
+    "used": true,
     "title_options": [
       "The Number That Controls Your Decisions",
       "Why The First Price You See Traps You",
