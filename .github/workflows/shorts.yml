@@ -2,11 +2,11 @@ name: Shorts Automation
 
 on:
   schedule:
-    # Athens summer time (UTC+3): 10:00, 14:00, 18:00, 22:00
+    # Athens summer time (UTC+3): 23:00, 03:00, 06:00, 10:00
+    - cron: "0 20 * * *"
+    - cron: "0 0 * * *"
+    - cron: "0 3 * * *"
     - cron: "0 7 * * *"
-    - cron: "0 11 * * *"
-    - cron: "0 15 * * *"
-    - cron: "0 19 * * *"
   workflow_dispatch: {}
 
 permissions:

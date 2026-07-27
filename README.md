@@ -9,7 +9,7 @@ Repo: https://github.com/mikesheeesh/shorts-automation (private)
 
 ## Πώς τρέχει σήμερα
 Το **GitHub Actions** workflow (`.github/workflows/shorts.yml`) τρέχει 4 φορές/μέρα
-(10:00, 14:00, 18:00, 22:00 Athens time) εντελώς στο cloud: render + upload + commit πίσω
+(23:00, 03:00, 06:00, 10:00 Athens time) εντελώς στο cloud: render + upload + commit πίσω
 του `content/scripts_pool.json` (used tracking). Δεν χρειάζεται το laptop να είναι
 αναμμένο/συνδεδεμένο. Το τοπικό Windows Task Scheduler task ("ShortsAutomation") έχει
 **απενεργοποιηθεί** (όχι διαγραφεί) για να μην ανεβαίνουν διπλά βίντεο.
