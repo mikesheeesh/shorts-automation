@@ -337,7 +337,7 @@
   },
   {
     "id": "007_dunbar_number",
-    "used": false,
+    "used": true,
     "title_options": [
       "The Limit On How Many Friends You Can Have",
       "Why You Can't Keep Up With Everyone",
