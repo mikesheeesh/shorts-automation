@@ -449,7 +449,7 @@
   },
   {
     "id": "009_bystander_effect",
-    "used": false,
+    "used": true,
     "title_options": [
       "Why Nobody Helps In A Crowd",
       "The More Witnesses, The Less Help You Get",
