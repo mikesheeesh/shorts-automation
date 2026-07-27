@@ -561,7 +561,7 @@
   },
   {
     "id": "011_loss_aversion",
-    "used": false,
+    "used": true,
     "title_options": [
       "Why Losing Hurts More Than Winning Feels Good",
       "This Bias Controls Every Decision You Make",
