@@ -673,7 +673,7 @@
   },
   {
     "id": "013_recency_effect",
-    "used": false,
+    "used": true,
     "title_options": [
       "Why You Only Remember The Last Thing Someone Said",
       "This Is Why Endings Matter More Than You Think",
