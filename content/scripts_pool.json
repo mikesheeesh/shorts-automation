@@ -953,7 +953,7 @@
   },
   {
     "id": "018_sunk_cost",
-    "used": false,
+    "used": true,
     "title_options": [
       "Why You Finish Bad Movies You Hate",
       "This Bias Keeps You Stuck In The Wrong Things",
