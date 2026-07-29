@@ -897,7 +897,7 @@
   },
   {
     "id": "017_peak_end_rule",
-    "used": false,
+    "used": true,
     "title_options": [
       "Why You Judge Whole Trips By One Moment",
       "This Is How Your Memory Actually Works",
