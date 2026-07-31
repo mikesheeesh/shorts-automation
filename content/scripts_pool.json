@@ -1345,7 +1345,7 @@
   },
   {
     "id": "025_self_serving_bias",
-    "used": false,
+    "used": true,
     "title_options": [
       "Why You Take Credit But Never The Blame",
       "This Bias Protects Your Ego Constantly",
