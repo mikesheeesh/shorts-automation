@@ -1737,7 +1737,7 @@
   },
   {
     "id": "032_choice_blindness",
-    "used": false,
+    "used": true,
     "title_options": [
       "Why You Can't Even Trust Your Own Choices",
       "This Experiment Will Mess With Your Head",
