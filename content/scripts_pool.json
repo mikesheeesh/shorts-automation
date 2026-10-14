@@ -2910,5 +2910,1125 @@
       "#psychologyfacts",
       "#brainfacts"
     ]
+  },
+  {
+    "id": "053_decoy_effect",
+    "used": false,
+    "title_options": [
+      "Why There's Always A 'Useless' Size On The Menu",
+      "The Fake Option That Makes You Spend More",
+      "This Is Why The Medium Popcorn Exists"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "Small popcorn is 3 dollars. Large is 7. Medium is 6 fifty. Nobody buys medium, so why does it exist?",
+        "visual_prompt": "movie theater popcorn stand with three sizes displayed, vertical",
+        "on_screen_text": "WHY DOES MEDIUM EXIST?",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called the decoy effect.",
+        "visual_prompt": "three price tags side by side on a menu board, vertical",
+        "on_screen_text": "THE DECOY EFFECT",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "The medium isn't there to be bought. It's there to make the large look like a steal by comparison.",
+        "visual_prompt": "hand pointing between two popcorn buckets comparing value, vertical",
+        "on_screen_text": "THE DECOY MAKES THE REAL OPTION WIN",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "Companies do this everywhere: software plans, subscription tiers, even job offers with a fake 'middle' choice.",
+        "visual_prompt": "laptop screen showing three subscription pricing tiers, vertical",
+        "on_screen_text": "IT'S NOT JUST POPCORN",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "The option that seems pointless is usually the one doing the most work on your wallet. Check the next menu you see.",
+        "visual_prompt": "person smiling while putting phone with pricing screen back in pocket, vertical",
+        "on_screen_text": "LOOK FOR THE DECOY",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "That 'useless' medium size isn't useless at all. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#decoyeffect",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#marketingpsychology"
+    ]
+  },
+  {
+    "id": "054_bandwagon_effect",
+    "used": false,
+    "title_options": [
+      "Why You Trust The Busy Restaurant Over The Empty One",
+      "This Is Why Fake Lines Work",
+      "Your Brain Follows The Crowd Without Asking"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "Two restaurants, same street. One is packed, one is empty. You pick the packed one without even checking the menu.",
+        "visual_prompt": "crowded restaurant with a line outside at night, vertical",
+        "on_screen_text": "WHY YOU PICKED THE BUSY ONE",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called the bandwagon effect.",
+        "visual_prompt": "crowd of people following one direction on a street, vertical",
+        "on_screen_text": "THE BANDWAGON EFFECT",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "Your brain assumes a crowd has already done the research for you, so it copies the crowd instead of thinking.",
+        "visual_prompt": "brain animation showing a 'copy' arrow pointing at a group of people, vertical",
+        "on_screen_text": "THE CROWD DOES YOUR THINKING",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "That's why apps show 'trending now', why reviews matter more than specs, and why fake lines actually attract real customers.",
+        "visual_prompt": "phone screen showing a 'trending now' list, vertical",
+        "on_screen_text": "'TRENDING' IS A TRIGGER, NOT PROOF",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "Popular doesn't always mean better, it just means louder. Next time, check if you actually like it or just followed the crowd.",
+        "visual_prompt": "person stepping out of a crowd, looking back thoughtfully, vertical",
+        "on_screen_text": "DID YOU CHOOSE, OR FOLLOW?",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "The crowd isn't always right, it's just loud. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#bandwagoneffect",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#socialproof"
+    ]
+  },
+  {
+    "id": "055_clustering_illusion",
+    "used": false,
+    "title_options": [
+      "Why You See Patterns That Aren't There",
+      "This Is Why Gamblers Believe In 'Hot Streaks'",
+      "Your Brain Is Addicted To Finding Patterns"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "You flip a coin 4 times and get heads every time. Your brain instantly thinks something's going on. It's not.",
+        "visual_prompt": "coin flipping in slow motion close up, vertical",
+        "on_screen_text": "IT'S NOT A SIGN",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called the clustering illusion.",
+        "visual_prompt": "random dots on a screen that look like they form a shape, vertical",
+        "on_screen_text": "THE CLUSTERING ILLUSION",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "Random events naturally clump together sometimes, but your brain refuses to believe anything is truly random.",
+        "visual_prompt": "brain animation connecting random dots into a fake pattern, vertical",
+        "on_screen_text": "RANDOM STILL CLUMPS SOMETIMES",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "That's why gamblers believe in hot streaks, why athletes believe in 'the zone', and why stock traders see patterns in noise.",
+        "visual_prompt": "casino slot machine lights flashing, vertical",
+        "on_screen_text": "HOT STREAKS AREN'T REAL MATH",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "Your brain would rather invent a pattern than accept randomness. Next coincidence you spot, ask if it's really special.",
+        "visual_prompt": "person shrugging with a calm expression, vertical",
+        "on_screen_text": "IS IT A PATTERN, OR JUST CHANCE?",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "Your brain hates randomness so much it makes patterns up. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#clusteringillusion",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#brainfacts"
+    ]
+  },
+  {
+    "id": "056_in_group_bias",
+    "used": false,
+    "title_options": [
+      "Why You Trust Strangers Who Wear Your Team's Jersey",
+      "This Is Why Fans Forgive Their Own Team Instantly",
+      "Your Brain Picks Sides Before You Even Think"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "Someone wears your college hoodie in a parking lot and suddenly you trust them more. You don't even know them.",
+        "visual_prompt": "two strangers recognizing matching team jerseys and smiling, vertical",
+        "on_screen_text": "WHY YOU TRUST THE JERSEY",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called in-group bias.",
+        "visual_prompt": "crowd split into two groups wearing different colors, vertical",
+        "on_screen_text": "IN-GROUP BIAS",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "Your brain is wired to favor anyone it labels as 'one of us', even over something as random as a logo.",
+        "visual_prompt": "brain animation sorting people into 'us' and 'them' boxes, vertical",
+        "on_screen_text": "'US' VS 'THEM' IS AUTOMATIC",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "That's why fans excuse their team's mistakes, why coworkers favor their own department, and why rivalries form over nothing.",
+        "visual_prompt": "sports fans cheering in stadium stands, vertical",
+        "on_screen_text": "SAME LOGO, INSTANT LOYALTY",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "The 'us versus them' feeling is older than logic. Next time you feel instant trust or distrust, ask what group triggered it.",
+        "visual_prompt": "person removing a team cap and looking at it thoughtfully, vertical",
+        "on_screen_text": "WHAT GROUP TRIGGERED THAT FEELING?",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "Your brain picks teams faster than it picks facts. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#ingroupbias",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#socialpsychology"
+    ]
+  },
+  {
+    "id": "057_horn_effect",
+    "used": false,
+    "title_options": [
+      "Why One Bad Thing Ruins Everything Else About Someone",
+      "The Opposite Of First Impressions Working In Your Favor",
+      "This Is Why One Typo Can Cost You The Job"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "One typo in an email, and suddenly the hiring manager assumes you're careless at everything. One flaw, total judgment.",
+        "visual_prompt": "close up of a resume with a red circled typo, vertical",
+        "on_screen_text": "ONE FLAW, TOTAL JUDGMENT",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called the horn effect.",
+        "visual_prompt": "dark shadow cast over a person's face, vertical",
+        "on_screen_text": "THE HORN EFFECT",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "It's the evil twin of the halo effect. One negative trait convinces your brain the whole person must be bad.",
+        "visual_prompt": "two masks, one shining one dark, side by side, vertical",
+        "on_screen_text": "ONE BAD TRAIT POISONS THE REST",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "That's why a messy desk makes people assume you're disorganized at everything, or a rude tone gets read as a bad person overall.",
+        "visual_prompt": "messy desk with scattered papers, vertical",
+        "on_screen_text": "MESSY DESK, UNFAIR LABEL",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "One flaw isn't the whole picture, your brain just treats it that way. Be careful judging, and being judged, by a single detail.",
+        "visual_prompt": "person organizing their desk calmly, vertical",
+        "on_screen_text": "ONE DETAIL ISN'T THE WHOLE STORY",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "One flaw and your brain writes off the whole person. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#horneffect",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#firstimpressions"
+    ]
+  },
+  {
+    "id": "058_status_quo_bias",
+    "used": false,
+    "title_options": [
+      "Why You Keep The Default Setting You Hate",
+      "This Is Why Nobody Changes Their Insurance Plan",
+      "Your Brain Fears Change More Than Bad Settings"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "You hate your phone's default ringtone. You've had it for 3 years. You still haven't changed it.",
+        "visual_prompt": "phone screen showing ringtone settings menu, vertical",
+        "on_screen_text": "3 YEARS. SAME RINGTONE.",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called status quo bias.",
+        "visual_prompt": "person staring at a 'keep' vs 'change' button on screen, vertical",
+        "on_screen_text": "STATUS QUO BIAS",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "Your brain treats the current setting as the safe choice, simply because it's already there, not because it's good.",
+        "visual_prompt": "brain animation highlighting a 'default' option, vertical",
+        "on_screen_text": "'ALREADY THERE' FEELS 'SAFE'",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "That's why people stay on bad phone plans, keep unused subscriptions, and never update their default privacy settings.",
+        "visual_prompt": "stack of unused subscription logos on a phone screen, vertical",
+        "on_screen_text": "DEFAULT ISN'T ALWAYS BEST",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "Doing nothing feels like the safe option, but it's still a choice. Go check one default setting you've never touched.",
+        "visual_prompt": "finger tapping to change a setting on a phone, vertical",
+        "on_screen_text": "CHANGE ONE DEFAULT TODAY",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "You haven't 'chosen' your defaults, you just never questioned them. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#statusquobias",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#decisionmaking"
+    ]
+  },
+  {
+    "id": "059_contrast_effect",
+    "used": false,
+    "title_options": [
+      "Why The Same Price Feels Cheap In One Store And Expensive In Another",
+      "This Is Why Stores Show You The Expensive Item First",
+      "Your Brain Can't Judge Anything Without Comparing It"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "A 50 dollar jacket feels expensive alone. Put it next to a 300 dollar jacket and it suddenly feels like a bargain.",
+        "visual_prompt": "two jackets on hangers with different price tags, vertical",
+        "on_screen_text": "SAME JACKET, DIFFERENT FEELING",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called the contrast effect.",
+        "visual_prompt": "side by side comparison of two price tags, vertical",
+        "on_screen_text": "THE CONTRAST EFFECT",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "Your brain doesn't judge value in isolation, it judges it against whatever it saw right before.",
+        "visual_prompt": "brain animation comparing two objects side by side, vertical",
+        "on_screen_text": "VALUE IS ALWAYS RELATIVE",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "That's why salespeople show you the expensive option first, why 'before and after' prices work, and why dating apps mess with your standards.",
+        "visual_prompt": "salesperson showing a customer a premium product first, vertical",
+        "on_screen_text": "THE FIRST PRICE SETS THE TRAP",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "Nothing has a fixed value in your head, it only has a value compared to what came before it. Watch for what you saw first.",
+        "visual_prompt": "person pausing before making a purchase decision, vertical",
+        "on_screen_text": "WHAT DID YOU SEE FIRST?",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "The price didn't change, your comparison did. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#contrasteffect",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#marketingpsychology"
+    ]
+  },
+  {
+    "id": "060_mandela_effect",
+    "used": false,
+    "title_options": [
+      "Why Thousands Of People Remember The Same Wrong Thing",
+      "This Is Why You Misremember Logos And Quotes",
+      "Your Memory Is Less Reliable Than You Think"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "You're sure the Monopoly man has a monocle. He never did. Thousands of people share that exact wrong memory.",
+        "visual_prompt": "close up of a vintage board game piece, vertical",
+        "on_screen_text": "HE NEVER HAD ONE",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called the Mandela effect.",
+        "visual_prompt": "two slightly different versions of the same logo side by side, vertical",
+        "on_screen_text": "THE MANDELA EFFECT",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "Memory isn't a recording, it's a reconstruction. Your brain fills gaps with what feels right, not what's accurate.",
+        "visual_prompt": "brain animation rebuilding a memory like puzzle pieces, vertical",
+        "on_screen_text": "MEMORY IS REBUILT, NOT REPLAYED",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "That's why so many people share the exact same false memory of a logo, a movie line, or a historical detail.",
+        "visual_prompt": "crowd of people all nodding in agreement about a misremembered fact, vertical",
+        "on_screen_text": "SHARED WRONG MEMORIES ARE COMMON",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "Being confident in a memory doesn't make it true. Go check one 'fact' you've always been sure about.",
+        "visual_prompt": "person looking up a fact on their phone with a surprised expression, vertical",
+        "on_screen_text": "CHECK WHAT YOU'RE SURE ABOUT",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "Being sure of a memory doesn't make it real. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#mandelaeffect",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#memory"
+    ]
+  },
+  {
+    "id": "061_zero_risk_bias",
+    "used": false,
+    "title_options": [
+      "Why You Pick 'Zero Risk' Over A Much Safer Option",
+      "This Is Why Warning Labels Work So Well",
+      "Your Brain Loves The Word 'Zero' Too Much"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "Option A cuts your risk from 10 percent to 1 percent. Option B cuts a smaller risk from 1 percent to zero. Most people pick B.",
+        "visual_prompt": "two risk meters side by side, one at zero, vertical",
+        "on_screen_text": "MOST PEOPLE PICK THE WORSE OPTION",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called zero-risk bias.",
+        "visual_prompt": "close up of a dial moving to exactly zero, vertical",
+        "on_screen_text": "ZERO-RISK BIAS",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "Your brain craves certainty so much it prefers eliminating a small risk completely over reducing a bigger one by more.",
+        "visual_prompt": "brain animation fixating on the word 'zero', vertical",
+        "on_screen_text": "'ZERO' FEELS BETTER THAN 'LESS'",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "That's why 'zero calories' sells better than '50 percent fewer calories', even when the second option is objectively better for you.",
+        "visual_prompt": "grocery store shelf with 'zero sugar' labels highlighted, vertical",
+        "on_screen_text": "'ZERO' IS A MARKETING WORD",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "Certainty feels good, but it's not always the smartest choice. Next time you see 'zero' anything, check the real numbers.",
+        "visual_prompt": "person reading the nutrition label on the back of a product, vertical",
+        "on_screen_text": "CHECK THE REAL NUMBERS",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "'Zero' is one of the most persuasive words in marketing. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#zeroriskbias",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#decisionmaking"
+    ]
+  },
+  {
+    "id": "062_actor_observer_bias",
+    "used": false,
+    "title_options": [
+      "Why You Blame The Road When You're Late, And Blame Them When They Are",
+      "This Is Why Nobody Thinks They're The Problem",
+      "Your Brain Judges You And Others By Different Rules"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "You're late because of traffic. They're late because they're lazy. Same situation, two different stories.",
+        "visual_prompt": "split screen of two people stuck in traffic from different angles, vertical",
+        "on_screen_text": "SAME SITUATION, TWO STORIES",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called the actor-observer bias.",
+        "visual_prompt": "two people pointing fingers at each other, vertical",
+        "on_screen_text": "ACTOR-OBSERVER BIAS",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "You blame your own mistakes on the situation, but you blame other people's mistakes on their character.",
+        "visual_prompt": "brain animation splitting into 'situation' and 'character' labels, vertical",
+        "on_screen_text": "SITUATION FOR ME, CHARACTER FOR YOU",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "That's why you forgive your own bad mood as 'a rough day', but call someone else's bad mood 'just who they are'.",
+        "visual_prompt": "person sighing at a stressful day at work, vertical",
+        "on_screen_text": "'A ROUGH DAY' VS 'JUST HOW THEY ARE'",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "The next time someone messes up, ask if you'd judge yourself the same way for doing the exact same thing.",
+        "visual_prompt": "person pausing before reacting, taking a breath, vertical",
+        "on_screen_text": "WOULD YOU JUDGE YOURSELF THE SAME?",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "You get excuses. Everyone else gets judged. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#actorobserverbias",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#socialpsychology"
+    ]
+  },
+  {
+    "id": "063_mcnamara_fallacy",
+    "used": false,
+    "title_options": [
+      "Why Companies Obsess Over Numbers That Don't Matter",
+      "This Is Why 'If You Can't Measure It, It Doesn't Count' Is Wrong",
+      "Your Brain Trusts Numbers More Than It Should"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "A company tracks 40 metrics on a dashboard. None of them measure if employees actually trust their manager.",
+        "visual_prompt": "office dashboard screen filled with charts and numbers, vertical",
+        "on_screen_text": "40 METRICS. ZERO TRUST SCORE.",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called the McNamara fallacy.",
+        "visual_prompt": "close up of a spreadsheet full of numbers, vertical",
+        "on_screen_text": "THE MCNAMARA FALLACY",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "It's trusting only what you can measure, and quietly ignoring everything important that numbers can't capture.",
+        "visual_prompt": "brain animation discarding an unmeasurable idea into a trash bin, vertical",
+        "on_screen_text": "IF IT CAN'T BE MEASURED, IT GETS IGNORED",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "That's why schools obsess over test scores over real understanding, and why companies chase clicks over actual trust.",
+        "visual_prompt": "classroom with students filling out a standardized test, vertical",
+        "on_screen_text": "SCORES AREN'T THE SAME AS UNDERSTANDING",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "Not everything that counts can be counted. Next time a number drives a big decision, ask what it's missing.",
+        "visual_prompt": "person closing a laptop and looking out a window thoughtfully, vertical",
+        "on_screen_text": "WHAT IS THE NUMBER MISSING?",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "Not everything that matters shows up on a dashboard. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#mcnamarafallacy",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#decisionmaking"
+    ]
+  },
+  {
+    "id": "064_illusory_superiority",
+    "used": false,
+    "title_options": [
+      "Why 80 Percent Of People Think They're Above Average Drivers",
+      "This Is Why Everyone Thinks They're Smarter Than Average",
+      "Your Brain Rates You Higher Than It Should"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "Ask a room of 100 drivers if they're above average. Statistically impossible, but almost everyone says yes.",
+        "visual_prompt": "crowded parking lot full of cars, vertical",
+        "on_screen_text": "STATISTICALLY IMPOSSIBLE",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called illusory superiority.",
+        "visual_prompt": "person looking in a mirror with a confident smile, vertical",
+        "on_screen_text": "ILLUSORY SUPERIORITY",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "Your brain quietly inflates your own skills, kindness, and intelligence compared to everyone else's.",
+        "visual_prompt": "brain animation with an upward arrow pointing to a self-rating, vertical",
+        "on_screen_text": "YOUR BRAIN GRADES ON A CURVE FOR YOU",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "That's why almost everyone rates their sense of humor as above average, and why most people think they're less biased than others.",
+        "visual_prompt": "group of people laughing at a joke, vertical",
+        "on_screen_text": "EVERYONE THINKS THEY'RE FUNNIER THAN AVERAGE",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "If everyone can't be above average, some of that confidence is an illusion. Stay a little humble about your own ratings.",
+        "visual_prompt": "person nodding thoughtfully, slightly humbled expression, vertical",
+        "on_screen_text": "STAY A LITTLE HUMBLE",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "Math says we can't all be above average. Your brain disagrees. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#illusorysuperiority",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#selfperception"
+    ]
+  },
+  {
+    "id": "065_belief_perseverance",
+    "used": false,
+    "title_options": [
+      "Why Facts Don't Change Minds Anymore",
+      "This Is Why People Keep Believing Things After Being Proven Wrong",
+      "Your Brain Protects Old Beliefs Like A Bodyguard"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "You show someone clear proof they're wrong. They nod, agree with the facts, and somehow still believe the same thing.",
+        "visual_prompt": "person looking at evidence on a screen but shaking head, vertical",
+        "on_screen_text": "PROOF SHOWN. BELIEF UNCHANGED.",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called belief perseverance.",
+        "visual_prompt": "a locked vault representing a stubborn belief, vertical",
+        "on_screen_text": "BELIEF PERSEVERANCE",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "Once a belief is in place, your brain holds onto it even after the original reason for it disappears.",
+        "visual_prompt": "brain animation holding onto an idea tightly, vertical",
+        "on_screen_text": "THE REASON LEFT, THE BELIEF STAYED",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "That's why debunked rumors still spread, why first impressions stick after someone changes, and why myths survive for decades.",
+        "visual_prompt": "old rumor spreading through a crowd like whispers, vertical",
+        "on_screen_text": "DEBUNKED DOESN'T MEAN GONE",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "Changing your mind when the evidence changes is actually a rare skill. Try practicing it on one belief this week.",
+        "visual_prompt": "person updating a note on their phone, crossing out an old belief, vertical",
+        "on_screen_text": "TRY UPDATING ONE BELIEF",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "Proof doesn't always beat a belief that's already settled in. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#beliefperseverance",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#criticalthinking"
+    ]
+  },
+  {
+    "id": "066_gamblers_fallacy",
+    "used": false,
+    "title_options": [
+      "Why You Think You're 'Due' For A Win",
+      "This Is Why Roulette Players Lose More After Losing",
+      "Your Brain Thinks Luck Has A Memory"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "Red hits 5 times in a row on roulette. Everyone starts betting black. They're 'due', right? Wrong.",
+        "visual_prompt": "roulette wheel spinning with red numbers landing repeatedly, vertical",
+        "on_screen_text": "THEY'RE NOT 'DUE'",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called the gambler's fallacy.",
+        "visual_prompt": "close up of casino chips stacked on a table, vertical",
+        "on_screen_text": "THE GAMBLER'S FALLACY",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "Your brain believes random events balance themselves out quickly, but each spin has zero memory of the last one.",
+        "visual_prompt": "brain animation trying to connect unrelated random events, vertical",
+        "on_screen_text": "EACH SPIN HAS NO MEMORY",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "That's why people chase losses expecting a turnaround, and why 'it's been a while since this happened' feels like a real reason.",
+        "visual_prompt": "person staring at a losing lottery ticket, vertical",
+        "on_screen_text": "'IT'S BEEN A WHILE' ISN'T A REASON",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "The odds reset every single time. 'Due for a win' is a story your brain tells, not a law of probability.",
+        "visual_prompt": "person walking away from a casino table calmly, vertical",
+        "on_screen_text": "THE ODDS DON'T OWE YOU ANYTHING",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "Random doesn't owe you a comeback. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#gamblersfallacy",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#decisionmaking"
+    ]
+  },
+  {
+    "id": "067_optimism_bias",
+    "used": false,
+    "title_options": [
+      "Why You Think Bad Things Only Happen To Other People",
+      "This Is Why Nobody Thinks They'll Be In A Car Accident",
+      "Your Brain Protects You With A Beautiful Lie"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "Most smokers know the health risks by heart. Most still believe they personally won't be the one it happens to.",
+        "visual_prompt": "person looking at a warning label but shrugging it off, vertical",
+        "on_screen_text": "'IT WON'T HAPPEN TO ME'",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called optimism bias.",
+        "visual_prompt": "sunrise over a calm road, symbolic of unrealistic hope, vertical",
+        "on_screen_text": "OPTIMISM BIAS",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "Your brain underestimates your own personal risk, even while accurately rating the risk for everyone else.",
+        "visual_prompt": "brain animation lowering a risk meter just for 'me', vertical",
+        "on_screen_text": "RISK FEELS LOWER WHEN IT'S 'ME'",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "That's why people skip insurance, ignore savings, and assume deadlines won't apply the same way to them.",
+        "visual_prompt": "person ignoring a deadline reminder notification on phone, vertical",
+        "on_screen_text": "DEADLINES SOMEHOW FEEL OPTIONAL",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "A little optimism keeps you going, but too much makes you skip real precautions. Plan like the risk applies to you too, because it does.",
+        "visual_prompt": "person checking their seatbelt before driving, vertical",
+        "on_screen_text": "PLAN LIKE IT APPLIES TO YOU",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "Your brain thinks the odds are different for you. They're not. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#optimismbias",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#brainfacts"
+    ]
+  },
+  {
+    "id": "068_affect_heuristic",
+    "used": false,
+    "title_options": [
+      "Why You Decide With Feelings And Call It Logic Later",
+      "This Is Why Ads Make You Feel Before They Make You Think",
+      "Your Brain Decides In Half A Second With Zero Facts"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "You decide you like a product in half a second, then spend the next five minutes inventing reasons why.",
+        "visual_prompt": "person picking up a product off a shelf instinctively, vertical",
+        "on_screen_text": "DECIDED IN HALF A SECOND",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called the affect heuristic.",
+        "visual_prompt": "brain animation with a glowing emotional spark, vertical",
+        "on_screen_text": "THE AFFECT HEURISTIC",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "Your gut feeling decides first, and your logical brain just builds the justification afterward.",
+        "visual_prompt": "brain split into 'feeling' and 'logic' sections, feeling glowing first, vertical",
+        "on_screen_text": "FEELING FIRST, LOGIC SECOND",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "That's why warm colors and friendly music make products feel 'safer', and why a good mood makes risky choices feel fine.",
+        "visual_prompt": "warm colored packaging design on a store shelf, vertical",
+        "on_screen_text": "WARM COLORS, LOWER GUARD",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "Your 'logical' decision might just be a feeling wearing a disguise. Next big choice, ask what emotion came first.",
+        "visual_prompt": "person pausing thoughtfully before signing a decision form, vertical",
+        "on_screen_text": "WHAT EMOTION CAME FIRST?",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "You felt it first. The logic came after, just to cover for it. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#affectheuristic",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#decisionmaking"
+    ]
+  },
+  {
+    "id": "069_denomination_effect",
+    "used": false,
+    "title_options": [
+      "Why A 20 Dollar Bill Feels Harder To Spend Than Coins",
+      "This Is Why Small Bills Disappear Faster",
+      "Your Brain Treats Money Differently Depending On Its Shape"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "A single 20 dollar bill sits untouched in your wallet for a week. The same 20 dollars in ones is gone by tomorrow.",
+        "visual_prompt": "wallet with a single large bill versus scattered small bills, vertical",
+        "on_screen_text": "SAME MONEY, DIFFERENT SPEED",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called the denomination effect.",
+        "visual_prompt": "close up of folded cash bills of different sizes, vertical",
+        "on_screen_text": "THE DENOMINATION EFFECT",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "Your brain feels like breaking a big bill is a bigger decision, so large bills stay protected longer than small change.",
+        "visual_prompt": "brain animation hesitating over a large bill, vertical",
+        "on_screen_text": "BIG BILLS FEEL HARDER TO BREAK",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "That's why cash in small bills disappears fast on little purchases, while that one big bill survives for weeks.",
+        "visual_prompt": "hand paying for a small snack with loose change, vertical",
+        "on_screen_text": "SMALL BILLS VANISH ON SMALL BUYS",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "It's the exact same value, your brain just treats the shape of money like it matters. Watch how fast your small bills go next time.",
+        "visual_prompt": "person closing a wallet, looking satisfied, vertical",
+        "on_screen_text": "SAME VALUE, DIFFERENT TREATMENT",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "Money is money, but your brain doesn't treat it that way. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#denominationeffect",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#moneypsychology"
+    ]
+  },
+  {
+    "id": "070_cheerleader_effect",
+    "used": false,
+    "title_options": [
+      "Why People Look More Attractive In A Group Photo",
+      "This Is Why Your Group Chat Profile Pic Works Better",
+      "Your Brain Averages Faces Without Telling You"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "The same person looks more attractive standing in a group photo than they do alone. Nothing about their face changed.",
+        "visual_prompt": "group of friends taking a photo together, vertical",
+        "on_screen_text": "NOTHING CHANGED ABOUT THEIR FACE",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called the cheerleader effect.",
+        "visual_prompt": "zoom transition from a group photo to a single face, vertical",
+        "on_screen_text": "THE CHEERLEADER EFFECT",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "Your brain automatically averages faces in a group, smoothing out small flaws and boosting overall perceived attractiveness.",
+        "visual_prompt": "brain animation blending several faces into one average, vertical",
+        "on_screen_text": "YOUR BRAIN AVERAGES THE GROUP",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "That's why dating profile pictures with friends tend to perform better, and why solo close-ups can feel harsher.",
+        "visual_prompt": "phone screen showing a dating app profile with a group photo, vertical",
+        "on_screen_text": "GROUP PHOTOS GET MORE MATCHES",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "It's not that you look worse alone, it's that groups get a perception bonus. Keep that in mind next time you pick a profile pic.",
+        "visual_prompt": "person scrolling through their camera roll choosing a photo, vertical",
+        "on_screen_text": "GROUPS GET A FREE PERCEPTION BOOST",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "Group photos come with a built-in perception bonus. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#cheerleadereffect",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#brainfacts"
+    ]
+  },
+  {
+    "id": "071_benjamin_franklin_effect",
+    "used": false,
+    "title_options": [
+      "Why Asking Someone For A Favor Makes Them Like You More",
+      "This Is The Reverse Way To Win People Over",
+      "Your Brain Rewrites Dislike Into Friendship After One Favor"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "Someone doesn't like you much. You ask them for a small favor anyway. Weirdly, they start liking you more.",
+        "visual_prompt": "two coworkers, one handing the other a borrowed item, vertical",
+        "on_screen_text": "ASK FOR A FAVOR, GET LIKED MORE",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called the Benjamin Franklin effect.",
+        "visual_prompt": "old-style quill and letter, symbolic of Franklin's era, vertical",
+        "on_screen_text": "THE BENJAMIN FRANKLIN EFFECT",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "Your brain hates the idea of doing something nice for someone it dislikes, so it quietly decides it must like them after all.",
+        "visual_prompt": "brain animation rewriting a 'dislike' label into 'like', vertical",
+        "on_screen_text": "'I HELPED THEM, SO I MUST LIKE THEM'",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "That's why doing a favor for a rival can thaw a cold relationship faster than doing them a big favor yourself would.",
+        "visual_prompt": "two rivals shaking hands after a small favor, vertical",
+        "on_screen_text": "FAVORS MELT RIVALRIES",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "Want someone to like you more? Sometimes the move isn't doing them a favor, it's letting them do one for you.",
+        "visual_prompt": "person smiling while accepting help from someone, vertical",
+        "on_screen_text": "LET THEM DO YOU A FAVOR",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "Asking for a favor can win people over faster than giving one. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#benjaminfranklineffect",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#socialskills"
+    ]
+  },
+  {
+    "id": "072_law_of_triviality",
+    "used": false,
+    "title_options": [
+      "Why Meetings Spend An Hour On The Coffee Machine",
+      "This Is Why Easy Problems Get More Attention Than Big Ones",
+      "Your Brain Avoids Hard Decisions By Hiding In Small Ones"
+    ],
+    "niche_style": "Fast-paced stock footage, bold captions",
+    "segments": [
+      {
+        "time": "hook",
+        "voiceover": "A company meeting spends 45 minutes debating the color of the break room, and 5 minutes approving a million dollar budget.",
+        "visual_prompt": "office meeting room with a whiteboard full of paint swatches, vertical",
+        "on_screen_text": "45 MINUTES ON PAINT COLOR",
+        "sfx": "whoosh"
+      },
+      {
+        "time": "body1",
+        "voiceover": "It's called the law of triviality, also known as bikeshedding.",
+        "visual_prompt": "small bike shed next to a massive building under construction, vertical",
+        "on_screen_text": "THE LAW OF TRIVIALITY",
+        "sfx": ""
+      },
+      {
+        "time": "body2",
+        "voiceover": "Everyone understands paint colors, so everyone argues about it. Almost nobody understands the complex budget, so it slides through fast.",
+        "visual_prompt": "brain animation choosing the easy topic over the complex one, vertical",
+        "on_screen_text": "EASY TOPICS GET THE LOUDEST DEBATES",
+        "sfx": ""
+      },
+      {
+        "time": "body3",
+        "voiceover": "That's why group chats argue for hours over dinner plans but approve a huge group trip decision in two texts.",
+        "visual_prompt": "group chat screen with endless messages about where to eat, vertical",
+        "on_screen_text": "DINNER TAKES LONGER THAN THE TRIP",
+        "sfx": ""
+      },
+      {
+        "time": "cta",
+        "voiceover": "The amount of debate something gets has nothing to do with how important it actually is. Watch for it in your next group decision.",
+        "visual_prompt": "person smiling, finally closing a long group chat debate, vertical",
+        "on_screen_text": "DEBATE TIME ISN'T IMPORTANCE",
+        "sfx": "pop"
+      }
+    ],
+    "caption": "The biggest decisions often get the least debate. #psychologyfacts",
+    "hashtags": [
+      "#psychology",
+      "#lawoftriviality",
+      "#mindblowing",
+      "#humanbehavior",
+      "#psychologyfacts",
+      "#groupdynamics"
+    ]
   }
 ]
