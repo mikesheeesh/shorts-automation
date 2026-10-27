@@ -1961,7 +1961,7 @@
   },
   {
     "id": "036_availability_heuristic",
-    "used": false,
+    "used": true,
     "title_options": [
       "Why Plane Crashes Scare You More Than Car Crashes",
       "This Is Why Your Fears Don't Match The Real Risk",
