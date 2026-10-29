@@ -2297,7 +2297,7 @@
   },
   {
     "id": "042_curse_of_knowledge",
-    "used": false,
+    "used": true,
     "title_options": [
       "Why Experts Are Bad At Explaining Things",
       "This Is Why Your Smart Friend Can't Teach",
