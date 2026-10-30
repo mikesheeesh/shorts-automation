@@ -2633,7 +2633,7 @@
   },
   {
     "id": "048_backfire_effect",
-    "used": false,
+    "used": true,
     "title_options": [
       "Why Facts Sometimes Make People More Wrong",
       "This Is Why Fact-Checking Can Backfire",
