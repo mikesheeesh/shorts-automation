@@ -2913,7 +2913,7 @@
   },
   {
     "id": "053_decoy_effect",
-    "used": false,
+    "used": true,
     "title_options": [
       "Why There's Always A 'Useless' Size On The Menu",
       "The Fake Option That Makes You Spend More",
